@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grafex-dev/grafex.git"
+    "url": "git+https://github.com/andresilva-cc/grafex.git"
   },
   "engines": {
     "node": ">=20.0.0"

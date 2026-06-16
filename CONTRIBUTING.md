@@ -143,7 +143,7 @@ test: add integration test for --props flag
 
 ## What We're Looking For
 
-Check the [GitHub Issues](https://github.com/grafex-dev/grafex/issues) for open tasks. Issues labeled `good first issue` are a great starting point.
+Check the [GitHub Issues](https://github.com/andresilva-cc/grafex/issues) for open tasks. Issues labeled `good first issue` are a great starting point.
 
 For larger changes (new output formats, API redesigns, architectural shifts), **open an issue first** to discuss the approach. This saves everyone time and avoids duplicate work.
 
@@ -159,4 +159,4 @@ Be respectful. We're all here to build something useful. Harassment, discriminat
 
 ## Questions?
 
-Open a [GitHub Discussion](https://github.com/grafex-dev/grafex/discussions) or comment on a relevant issue. We're happy to help.
+Open a [GitHub Discussion](https://github.com/andresilva-cc/grafex/discussions) or comment on a relevant issue. We're happy to help.

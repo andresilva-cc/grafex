@@ -18,5 +18,5 @@ Key features: full CSS support (flexbox, grid, gradients, shadows, transforms), 
 
 ## Optional
 
-- [GitHub Repository](https://github.com/grafex-dev/grafex): Source code, issues, contributing
+- [GitHub Repository](https://github.com/andresilva-cc/grafex): Source code, issues, contributing
 - [npm Package](https://www.npmjs.com/package/grafex): Package registry page
