@@ -1,3 +1,6 @@
 node_modules/
 dist/
 *.json.results
+
+# Local Claude Code config
+.claude/
